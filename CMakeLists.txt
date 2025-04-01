@@ -1,4 +1,4 @@
-#
+ #
 # Standard project boilerplate
 #
 cmake_minimum_required(VERSION 3.26)
